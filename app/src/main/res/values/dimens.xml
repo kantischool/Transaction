@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small_border_width">0.5dp</dimen>
+    <dimen name="medium_border_width">1dp</dimen>
+    <dimen name="large_border_width">2dp</dimen>
+
+    <dimen name="small_border_radius">4dp</dimen>
+    <dimen name="medium_border_radius">8dp</dimen>
+    <dimen name="large_border_radius">12dp</dimen>
+
+    <!--    activity margin-->
+    <dimen name="activity_left_margin">24dp</dimen>
+    <dimen name="activity_right_margin">24dp</dimen>
+    <dimen name="activity_top_margin">48dp</dimen>
+
+    <!--    text size-->
+    <dimen name="small_text_size">12sp</dimen>
+    <dimen name="medium_text_size">16sp</dimen>
+    <dimen name="large_text_size">20sp</dimen>
+
+    <!--    margin-->
+    <dimen name="small_margin">8dp</dimen>
+    <dimen name="medium_margin">16dp</dimen>
+    <dimen name="large_margin">24dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>
